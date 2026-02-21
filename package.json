@@ -1,6 +1,6 @@
 {
   "name": "@pleme-io/types",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Shared TypeScript library for Nexus products",
   "type": "module",
   "main": "./dist/index.js",
